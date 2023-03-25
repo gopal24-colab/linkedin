@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/linkedin/static/css/main.af2cb9b5.css",
+    "main.js": "/linkedin/static/js/main.d7c75c61.js",
+    "index.html": "/linkedin/index.html",
+    "main.af2cb9b5.css.map": "/linkedin/static/css/main.af2cb9b5.css.map",
+    "main.d7c75c61.js.map": "/linkedin/static/js/main.d7c75c61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af2cb9b5.css",
+    "static/js/main.d7c75c61.js"
+  ]
+}
